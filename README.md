@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ekesiobi Charles
-- 👀 I’m interested in UI, UX, Front-end Technologies, python and web3
+- 👀 I’m interested in Product Design, Front-end Technologies, python and web3
 - 🌱 I’m currently learning UI/UX & Vanilla JS
 - 💞️ I’m looking to collaborate on UI/UX Projects or Javascript Related Projects
 - 📫 How to reach me https://linktr.ee/charlesfreemanx
